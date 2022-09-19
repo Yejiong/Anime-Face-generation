@@ -2,4 +2,5 @@
 
 ## Introduction
 
-In this project, I generate Anime faces through GAN and WGAN with the [dataset link](https://www.kaggle.com/datasets/soumikrakshit/anime-faces) from Kaggle. In the dataset, there are total 21551 Anime Face images used as trainind data.
+In this project, I generate Anime faces through GAN and WGAN with the [dataset link](https://www.kaggle.com/datasets/soumikrakshit/anime-faces) from Kaggle. In the dataset, there are total 21551 Anime Face images used as trainind data. Some examples of images are attached as following:
+![alt text](https://github.com/Yejiong/Anime-Face-generation/blob/main/examples.png)
